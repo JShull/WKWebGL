@@ -1,0 +1,16 @@
+{
+"companyName": "VMASC",
+"productName": "WK_AAAI",
+"productVersion": "0.1",
+"dataUrl": "WKWebGLBuildV6.data.unityweb",
+"wasmCodeUrl": "WKWebGLBuildV6.wasm.code.unityweb",
+"wasmFrameworkUrl": "WKWebGLBuildV6.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
